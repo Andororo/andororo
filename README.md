@@ -17,8 +17,6 @@ Cloud & Backend Services: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?
 CI/CD & Version Control: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andororo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andororo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andororo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
